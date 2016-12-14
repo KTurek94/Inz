@@ -1,0 +1,31 @@
+
+body {
+   background-size: 100% 100%;
+	background-image: url("tlopoziomy.jpg");
+	text-align: center;
+}
+
+.plansza {
+	
+	 margin: 0 auto;
+    position: relative;
+    overflow: hidden;
+    width: 865px;
+    height: 695px;
+    box-shadow: 1px 1px 1px #fff, inset 1px 1px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 6px;
+}
+
+.kafelek {
+    position: absolute;
+    float: left;
+    width: 80px;
+    height: 80px;
+    background: #dfba4e url(title.png) center center no-repeat;
+    margin: 5px;
+    border-radius: 5px;
+    box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.2), inset 1px 1px 1px #fff, 1px 1px 3px rgba(0,0,0,1);
+}
+
+
+
